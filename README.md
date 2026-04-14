@@ -42,5 +42,7 @@ The dashboard includes slicers that dynamically filter all charts simultaneously
 - Microsoft Excel (PivotTables, PivotCharts, Slicers, Bing Maps chart, dashboard layout)
 
 ---
+<img width="2183" height="1108" alt="image" src="https://github.com/user-attachments/assets/aa5cdc7a-790c-450c-b244-26f852450a42" />
+
 
 *Data source: Adidas U.S. Sales Dataset · Period: January 2020 – December 2021*
